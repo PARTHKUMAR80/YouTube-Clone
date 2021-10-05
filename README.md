@@ -1,0 +1,1 @@
+A basic YouTube clone which uses the YouTube API to fetch the data of the videos related to the term entered by the user. A loading screen also appears whenever a new term is searched.
