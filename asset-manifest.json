@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/YouTube-Clone/static/css/main.ddc1c22a.chunk.css",
+    "main.js": "/YouTube-Clone/static/js/main.a0a115ac.chunk.js",
+    "main.js.map": "/YouTube-Clone/static/js/main.a0a115ac.chunk.js.map",
+    "runtime-main.js": "/YouTube-Clone/static/js/runtime-main.df078336.js",
+    "runtime-main.js.map": "/YouTube-Clone/static/js/runtime-main.df078336.js.map",
+    "static/js/2.9085fed8.chunk.js": "/YouTube-Clone/static/js/2.9085fed8.chunk.js",
+    "static/js/2.9085fed8.chunk.js.map": "/YouTube-Clone/static/js/2.9085fed8.chunk.js.map",
+    "static/js/3.22180042.chunk.js": "/YouTube-Clone/static/js/3.22180042.chunk.js",
+    "static/js/3.22180042.chunk.js.map": "/YouTube-Clone/static/js/3.22180042.chunk.js.map",
+    "index.html": "/YouTube-Clone/index.html",
+    "static/css/main.ddc1c22a.chunk.css.map": "/YouTube-Clone/static/css/main.ddc1c22a.chunk.css.map",
+    "static/js/2.9085fed8.chunk.js.LICENSE.txt": "/YouTube-Clone/static/js/2.9085fed8.chunk.js.LICENSE.txt",
+    "static/media/explore.bbaba032.jpg": "/YouTube-Clone/static/media/explore.bbaba032.jpg",
+    "static/media/history.de6ea8cc.jpg": "/YouTube-Clone/static/media/history.de6ea8cc.jpg",
+    "static/media/library.01fbe83e.png": "/YouTube-Clone/static/media/library.01fbe83e.png",
+    "static/media/logo.19c8debe.jpg": "/YouTube-Clone/static/media/logo.19c8debe.jpg",
+    "static/media/mic.567151fc.jpg": "/YouTube-Clone/static/media/mic.567151fc.jpg",
+    "static/media/share.b7ee3a2f.png": "/YouTube-Clone/static/media/share.b7ee3a2f.png",
+    "static/media/slider.fde284d8.png": "/YouTube-Clone/static/media/slider.fde284d8.png",
+    "static/media/subscribe.0b153885.png": "/YouTube-Clone/static/media/subscribe.0b153885.png",
+    "static/media/thumbs_up.fcbdec57.jpg": "/YouTube-Clone/static/media/thumbs_up.fcbdec57.jpg",
+    "static/media/watch_later.5317cf21.jpg": "/YouTube-Clone/static/media/watch_later.5317cf21.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df078336.js",
+    "static/js/2.9085fed8.chunk.js",
+    "static/css/main.ddc1c22a.chunk.css",
+    "static/js/main.a0a115ac.chunk.js"
+  ]
+}
